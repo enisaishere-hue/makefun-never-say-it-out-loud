@@ -5,6 +5,8 @@ The thing nobody says out loud in the meeting: the meeting could have
 been an email -- and the email could have been silence. Two levels of
 wasted time, one sentence.
 
+The unsayable part is the second half: everyone agrees the meeting could have been an email, but nobody admits the email could have been nothing.
+
 The program writes that one line to entry.txt in the output directory
 (MAKEFUN_OUTPUT_DIR, default /output). A command-line argument may
 name the directory instead, but the grader passes none.
